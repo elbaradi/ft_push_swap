@@ -2,7 +2,7 @@ Note: _This was my eigth 42 project, completed August 2021. With this project I 
 
 _This README was written by the lovely [Lotte Hageman](https://github.com/RascalCalmind), it was copied and adjusted with her permission; it perfectly describes the project._
 
-[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/qingqingqingli/cub3d)
+[![Logo](https://github.com/qingqingqingli/readme_images/blob/master/codam_logo_1.png)](https://github.com/elbaradi/ft_cub3d)
 
 
 # ft_push_swap
